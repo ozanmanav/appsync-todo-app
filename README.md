@@ -1,3 +1,9 @@
+AWS AppSync ve React ile Ölçeklendirilebilir GraphQL Uygulamaları yazısının reposu.
+
+https://console.aws.amazon.com/appsync
+
+http://graphql.org
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

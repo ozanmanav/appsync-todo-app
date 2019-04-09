@@ -3,7 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "aws-appsync": "^1.7.2",
+    "aws-appsync-react": "^1.2.7",
+    "graphql-tag": "^2.10.1",
+    "i": "^0.3.6",
+    "npm": "^6.9.0",
+    "or": "^0.2.0",
     "react": "^16.8.6",
+    "react-apollo": "^2.5.4",
     "react-dom": "^16.8.6",
     "react-scripts": "2.1.8"
   },

@@ -1,4 +1,7 @@
+https://medium.com/@ozanmanav/aws-appsync-ve-react-ile-%C3%B6l%C3%A7eklendirilebilir-graphql-uygulamalar%C4%B1-e151e6c56388
+
 AWS AppSync ve React ile Ölçeklendirilebilir GraphQL Uygulamaları yazısının reposu.
+
 
 https://console.aws.amazon.com/appsync
 
